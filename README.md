@@ -12,6 +12,7 @@
 - Email: fernando.c.m@live.com
 
 Feel free to explore my repositories and connect with me to discuss ideas or exciting collaborations!
+
 Thank you for visiting my profile! 😊
 
 
