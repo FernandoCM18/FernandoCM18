@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @FernandoCM18
-- 👀 I’m interested in learning new technologies to create websites, apps, or something new that helps people in their day to day.
-- 🌱 I’m currently learning Qwik, Flutter, Dart.
-- 💞️ I’m looking to collaborate on projects in which you can learn new things and help people at the same time
+# 👋 Hi, I’m @FernandoCM18
+
+## About me
+Welcome to my GitHub profile! I'm a passionate programmer who loves building innovative solutions. I'm a FullStack developer with 5 years of experience in web development, I've taken courses to keep myself updated as technology advances more and more.
+
+In my free time, I like to continue learning about new technologies and tools that can help me improve my programming skills. I firmly believe in the importance of collaboration and sharing knowledge with the programming community.
+
+👀 I’m interested in learning new technologies to create websites, apps, or something new that helps people in their day to day.
+
+🌱 I’m currently learning Qwik, Flutter, Dart, and Testing.
+
+💞️ I’m looking to collaborate on projects in which you can learn new things and help people at the same time
+
+In summary, I'm a FullStack developer with experience in web and mobile development, with a wide variety of technical skills and programming languages. I enjoy learning and improving my skills, and I'm always willing to collaborate on new exciting projects. If you need any help or have any questions, feel free to contact me. I'm here to help!
+
+
 
 
 ### 🔨 Languages and Tools:
